@@ -1,0 +1,3 @@
+Kissa,3
+Fysiikka,false
+Väri,false
