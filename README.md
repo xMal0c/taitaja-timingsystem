@@ -1,6 +1,15 @@
+# Taitaja Timing System
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<br>
+It's currently in the early stages of development. You may experience bugs issues that could affect the functionality of the project.
 
 ## Getting Started
+
+Ensure you have the following installed:
+
+- Node.js (v12.x or later)
+- npm/yarn/pnpm/bun (depending on your preference)
 
 First, run the development server:
 
@@ -20,17 +29,39 @@ You can start editing the page by modifying `app/page.js`. The page auto-updates
 
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
-## Learn More
+### About the project
 
-To learn more about Next.js, take a look at the following resources:
+// TBR
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+### Projects info
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+This project is deeply unfinished, and its purpose at the moment is to be indicative.
+If you have tips or ideas you want to share, you can contact me - see my [github](https://github.com/xmal0c) profile. <br>
+Alternatively, you can just make a pull req:
 
-## Deploy on Vercel
+1. Fork the repository
+2. Create your feature branch (git checkout -b feature/AmazingFeature)
+3. Commit your changes (git commit -m 'Add some AmazingFeature')
+4. Push to the branch (git push origin feature/AmazingFeature)
+5. Open a pull request
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+#### Current version is 0.1
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+### Dependecies
+
+// Dependecies:
+// framer-motion
+// next
+// react
+// react-dom
+// tailwindcss
+// postcss
+// eslint
+
+#### Installing
+
+Install framer-motion with via your package manager:
+
+npm install framer-motion
+
+for more, check [docs](https://www.framer.com/motion/).
