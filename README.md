@@ -46,7 +46,8 @@ Alternatively, you can just make a pull req:
 5. Open a pull request
 
 #### Current version is 0.1
-#### Langauge support: Finnish
+Langauge support:
+- Finnish
 
 ### Dependecies
 
